@@ -44,7 +44,7 @@ public class Question4
      */
      
     Scanner in = new Scanner(System.in);
-    System.out.print("Enter integer for base of triangle: ");
+    //System.out.print("Enter integer for base of triangle: ");
     int base = in.nextInt();
     
     for (int i = base; i > 0; i--) {
